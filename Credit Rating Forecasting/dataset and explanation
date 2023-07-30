@@ -1,0 +1,3 @@
+The dataset was obtained from https://www.kaggle.com/code/agewerc/corporate-credit-rating-forecasting.
+The dataset is very imbalacned. I used the technique of random oversampling to deal with it, and applied tuned gradient boosting trees to make better predictions. 
+  
